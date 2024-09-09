@@ -1,10 +1,10 @@
 ﻿# **GPS Conférence de rentrée partenaire 2024**
 
 Vidéo AIDW - Custom ChatGPT
-[![Watch the video](https://github.com/fredgis/PartnerTechConf2024/blob/main/Images/CustomChatGPT.png)](https://github.com/fredgis/PartnerTechConf2024/blob/main/Videos/AIDWownchatGPTConfTechPartner.mp4)
+[![Watch the video](https://github.com/fredgis/PartnerTechConf2024/blob/main/Images/CustomChatGPT.png)](https://github.com/fredgis/PartnerTechConf2024/raw/main/Videos/AIDWownchatGPTConfTechPartner.mp4)
 
 Vidéo Fabric AI Skill
-[![Watch the video](https://github.com/fredgis/PartnerTechConf2024/blob/main/Images/TaskFlow.png)](https://github.com/fredgis/PartnerTechConf2024/blob/main/Videos/AISkillConfTechPartnerSmall.mp4)
+[![Watch the video](https://github.com/fredgis/PartnerTechConf2024/blob/main/Images/TaskFlow.png)](https://github.com/fredgis/PartnerTechConf2024/raw/main/Videos/AISkillConfTechPartnerSmall.mp4)
 
 et pour allez plus loin avec Microsoft Fabric ... ;)
 
