@@ -1,4 +1,4 @@
-﻿# **GPS Conférence de rentrée partenaire 2024**
+﻿# **GPS Conférence de rentrée partenaires 2024**
 
 Vidéo AIDW - Custom ChatGPT
 [![Watch the video](https://github.com/fredgis/PartnerTechConf2024/blob/main/Images/CustomChatGPT.png)](https://github.com/fredgis/PartnerTechConf2024/raw/main/Videos/AIDWownchatGPTConfTechPartner.mp4) (Click to download)
