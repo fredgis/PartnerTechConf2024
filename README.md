@@ -10,7 +10,7 @@ et pour allez plus loin avec Microsoft Fabric ... ;)
 
 [Microsoft Fabric - De l’analyse à la mise en place d’une plateforme de données unifiée (fabricbook.fr)](https://fabricbook.fr/)
 
-<img src="https://fabricbook.fr/assets/couverture.jpg" alt="Couverture du livre" style="zoom: 25%;" />
+<img src="https://fabricbook.fr/assets/couverture.jpg" alt="Couverture du livre" width="200"/>
 
 - Chapitre 01: Introduction à Microsoft Fabric
 - Chapitre 02: Démarrer avec Fabric
